@@ -2,9 +2,9 @@
     "name": "Laverna",
     "id": "laverna",
     "description": {
-        "en": "Note taking app"
+        "en": "Laverna is a JavaScript note-taking web application with a Markdown editor and encryption support."
     },
-    "licence": "GPL",
+    "licence": "GPL-3",
     "developer": {
         "name": "Laverna Team",
         "email": "lavernaproject@gmail.com",
